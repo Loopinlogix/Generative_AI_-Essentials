@@ -1,4 +1,4 @@
-eaching a Machine to Write Like Jane Austen
+Teaching a Machine to Write Like Jane Austen
 Badges:  
 Python •
 TensorFlow •
